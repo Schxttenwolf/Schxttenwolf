@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Schxttenwolf
+- 👋 Hi, I’m @Cuz1mWolf
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on AI
